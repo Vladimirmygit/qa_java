@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="CatTest" time="0.171" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="CatTest" time="0.174" errors="0" skipped="0">
   <properties>
     <property name="idea.version" value="2022.3.3"/>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
@@ -29,7 +29,7 @@
     <property name="maven.ext.class.path" value="D:\IDEA\IntelliJ IDEA 2022.3.1\plugins\maven\lib\maven-event-listener.jar"/>
     <property name="classworlds.conf" value="D:\IDEA\IntelliJ IDEA 2022.3.1\plugins\maven\lib\maven3\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1251"/>
-    <property name="java.library.path" value="D:\Java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\QA\JDK\jdk11.0.19_7\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\Git\cmd;E:\Git\mingw64\bin;E:\Git\usr\bin;E:\QA\Maven\apache-maven-3.9.2\bin;E:\QA\WebDriver\bin;C:\Users\Vladimir\AppData\Local\Microsoft\WindowsApps;;."/>
+    <property name="java.library.path" value="D:\Java\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;E:\QA\JDK\jdk11.0.19_7\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;E:\Git\cmd;E:\Git\mingw64\bin;E:\Git\usr\bin;E:\QA\Maven\apache-maven-3.9.2\bin;E:\QA\WebDriver\bin;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\Vladimir\AppData\Local\Microsoft\WindowsApps;;."/>
     <property name="jansi.passthrough" value="true"/>
     <property name="maven.conf" value="D:\IDEA\IntelliJ IDEA 2022.3.1\plugins\maven\lib\maven3/conf"/>
     <property name="jdk.debug" value="release"/>
@@ -61,5 +61,5 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="CatTest" name="testGetFood" time="0.171"/>
+  <testcase classname="CatTest" name="testGetFood" time="0.174"/>
 </testsuite>
